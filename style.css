@@ -1,0 +1,45 @@
+body {
+    background-color: lightgrey;
+    color: darkred;
+    font-size: 20px;
+}
+
+fieldset {
+    background-color: grey;
+}
+
+legend {
+    background-color: grey;
+    margin-left: 20px;
+    width: 530px;
+    text-align: center;
+    font-size: 32px;
+    position: relative;
+    bottom: -2px;
+}
+
+label {
+    display: block;
+    float: left;
+    width: 250px;
+}
+
+.labelTextarea {
+    width: 100%;
+    margin-top: 20px;
+}
+
+textarea {
+    margin-left: 20%;
+}
+
+.buttonEndForm {
+    color: white;
+    background-color: orangered;
+    border-radius: 8px;
+    padding: 10px;
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 10px;
+    cursor: pointer;
+}
